@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./![github-header-image](https://github.com/user-attachments/assets/ffd44633-e982-4e36-8e33-39c68f5f923d)
 <h1 align="center">Hi 👋, I'm Adhyayan Dubey</h1>
 <h3 align="center">I'm a passionate music producer and DJ with a flair for full-stack web development and a growing interest in cybersecurity. A natural leader and public speaker, I thrive in the corporate world, where I combine my technical skills with my love for innovation and communication.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
